@@ -56,11 +56,37 @@ namespace CSharp
             //ArrayDemo();
             //Cycles();
             //Collection_Arrays();
-            Collection_List();
+            //Collection_List();
             //Dictionary();
             //MultidimensionalArrays();
             // Character character = new Character();
             // character.Hit(5);
+
+            PointVal a; // same as PointVal a = new PointVal();
+            a.x = 3;
+            a.y = 6;
+            
+            PointVal b = a; // same as PointVal a = new PointVal();
+            a.x = 7;
+            a.y = 10;
+            
+            a.LogValues();
+            b.LogValues();
+            
+            Console.WriteLine("After Structs");
+            //
+
+            PointRef c = new PointRef();
+            c.x = 10;
+            c.y = 14;
+            
+            PointRef d = c; 
+            d.x = 1;
+            d.y = 2;
+            
+          
+            d.LogValues();
+            c.LogValues();
         }
 
         static void ArrayDemo()

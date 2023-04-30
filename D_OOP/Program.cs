@@ -31,14 +31,14 @@
             // {
             //     Console.WriteLine("Failed to divide");
             // }
-
+  
             Character c1 = new Character();
             Character c2 = new Character();
-            
+
             Console.WriteLine($"c1.Speed={c1.PrintSpeed()}. c2.Speed={c2.PrintSpeed()}");
-            
+
             c2.IncreaseSpeed();
-            
+          
             Console.WriteLine($"c1.Speed={c1.PrintSpeed()}. c2.Speed={c2.PrintSpeed()}");
         }
     }
