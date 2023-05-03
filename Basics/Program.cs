@@ -61,32 +61,51 @@ namespace CSharp
             //MultidimensionalArrays();
             // Character character = new Character();
             // character.Hit(5);
-
-            PointVal a; // same as PointVal a = new PointVal();
-            a.x = 3;
-            a.y = 6;
-            
-            PointVal b = a; // same as PointVal a = new PointVal();
-            a.x = 7;
-            a.y = 10;
-            
-            a.LogValues();
-            b.LogValues();
-            
-            Console.WriteLine("After Structs");
+            // EvilStrict evelStrict = new EvilStrict();
+            // evelStrict.PointRef = new PointRef() { x = 1, y = 2 };
             //
+            
+            //********************************************************//
+            // EvilStrict evelStrict2 = evelStrict;
+            //
+            // Console.WriteLine($"evelStrict.Point.x={evelStrict.PointRef.x}, evelStrict.Point.y={evelStrict.PointRef.y}");
+            // Console.WriteLine($"evelStrict2.Point.x={evelStrict2.PointRef.x}, evelStrict2.Point.y={evelStrict2.PointRef.y}");
+            //
+            // evelStrict2.PointRef.x = 44;
+            // evelStrict2.PointRef.y = 40;
+            //
+            // Console.WriteLine($"evelStrict.Point.x={evelStrict.PointRef.x}, evelStrict.Point.y={evelStrict.PointRef.y}");
+            // Console.WriteLine($"evelStrict2.Point.x={evelStrict2.PointRef.x}, evelStrict2.Point.y={evelStrict2.PointRef.y}");
+            //
+            //
+            // PointVal pointVal_a; // same as PointVal a = new PointVal();
+            // pointVal_a.x = 3;
+            // pointVal_a.y = 6;
+            //
+            // PointVal pointVal_b = pointVal_a; // same as PointVal a = new PointVal();
+            // pointVal_b.x = 7;
+            // pointVal_b.y = 10;
+            //
+            // pointVal_a.LogValues();
+            // pointVal_b.LogValues();
 
-            PointRef c = new PointRef();
-            c.x = 10;
-            c.y = 14;
+            // Console.WriteLine("After Structs");
+            // //
+            //
+            // PointRef pointRef_a = new PointRef();
+            // pointRef_a.x = 10;
+            // pointRef_a.y = 14;
+            //
+            // PointRef pointRef_b = pointRef_a;
+            // pointRef_b.x = 1;
+            // pointRef_b.y = 2;
+            //
+            //
+            // pointRef_a.LogValues();
+            // pointRef_b.LogValues();
             
-            PointRef d = c; 
-            d.x = 1;
-            d.y = 2;
-            
-          
-            d.LogValues();
-            c.LogValues();
+            // ////**********************************////
+
         }
 
         static void ArrayDemo()

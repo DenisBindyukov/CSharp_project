@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L7VggLqb/bShzq85HTKND9oE75JGvzuBcIc7rKFZSPTtqi1bwnh5zIdze6Ubw1maOXq2OFLcz0uBxyFdbSKB7g==",
+  "dgSpecHash": "LcnGREckdPbqkx7mh3p6GtK0J3ElIbvZhYkrXTrRKJQjD2cLvwwm3A6ZhPrRfreCuujiFOZ9zUd1ppXLTp1Iiw==",
   "success": true,
-  "projectFilePath": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/Basics/Basics.csproj",
+  "projectFilePath": "C:\\projects\\CSharp_project\\Basics\\Basics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fug/XQj+bWggR0v9yUYDQ0QFOVsh9I8UyYib52V0fYmxtnCIWyQJu3b1dkVXqJngPS9L+sL5Ir1wc0Q6kRHRew==",
+  "dgSpecHash": "r3nZxWWFNDO0P33t+PdDJJ8hRW4VBSZLjgOyAAUQRMGSVTt8hZcVBRHDnjkfEFZmLKInLEt0oAXcT4IbfWpsMA==",
   "success": true,
-  "projectFilePath": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/D_OOP/D_OOP.csproj",
+  "projectFilePath": "C:\\projects\\CSharp_project\\D_OOP\\D_OOP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

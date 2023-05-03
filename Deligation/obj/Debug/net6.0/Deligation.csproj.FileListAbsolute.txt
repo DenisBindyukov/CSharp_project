@@ -1,0 +1,15 @@
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\Deligation.csproj.AssemblyReference.cache
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\Deligation.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\Deligation.AssemblyInfoInputs.cache
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\Deligation.AssemblyInfo.cs
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\Deligation.csproj.CoreCompileInputs.cache
+C:\projects\CSharp_project\Deligation\bin\Debug\net6.0\Deligation.exe
+C:\projects\CSharp_project\Deligation\bin\Debug\net6.0\Deligation.deps.json
+C:\projects\CSharp_project\Deligation\bin\Debug\net6.0\Deligation.runtimeconfig.json
+C:\projects\CSharp_project\Deligation\bin\Debug\net6.0\Deligation.dll
+C:\projects\CSharp_project\Deligation\bin\Debug\net6.0\Deligation.pdb
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\Deligation.dll
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\refint\Deligation.dll
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\Deligation.pdb
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\Deligation.genruntimeconfig.cache
+C:\projects\CSharp_project\Deligation\obj\Debug\net6.0\ref\Deligation.dll

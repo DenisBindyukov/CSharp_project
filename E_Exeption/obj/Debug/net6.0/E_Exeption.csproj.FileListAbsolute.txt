@@ -1,0 +1,15 @@
+C:\projects\CSharp_project\E_Exeption\bin\Debug\net6.0\E_Exeption.exe
+C:\projects\CSharp_project\E_Exeption\bin\Debug\net6.0\E_Exeption.deps.json
+C:\projects\CSharp_project\E_Exeption\bin\Debug\net6.0\E_Exeption.runtimeconfig.json
+C:\projects\CSharp_project\E_Exeption\bin\Debug\net6.0\E_Exeption.dll
+C:\projects\CSharp_project\E_Exeption\bin\Debug\net6.0\E_Exeption.pdb
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\E_Exeption.csproj.AssemblyReference.cache
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\E_Exeption.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\E_Exeption.AssemblyInfoInputs.cache
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\E_Exeption.AssemblyInfo.cs
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\E_Exeption.csproj.CoreCompileInputs.cache
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\E_Exeption.dll
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\refint\E_Exeption.dll
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\E_Exeption.pdb
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\E_Exeption.genruntimeconfig.cache
+C:\projects\CSharp_project\E_Exeption\obj\Debug\net6.0\ref\E_Exeption.dll

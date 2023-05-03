@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/denisbindyukov/RiderProjects/ConsoleApp1/Basics/Basics.csproj": {}
+    "C:\\projects\\CSharp_project\\Basics\\Basics.csproj": {}
   },
   "projects": {
-    "/Users/denisbindyukov/RiderProjects/ConsoleApp1/Basics/Basics.csproj": {
+    "C:\\projects\\CSharp_project\\Basics\\Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/Basics/Basics.csproj",
+        "projectUniqueName": "C:\\projects\\CSharp_project\\Basics\\Basics.csproj",
         "projectName": "Basics",
-        "projectPath": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/Basics/Basics.csproj",
-        "packagesPath": "/Users/denisbindyukov/.nuget/packages/",
-        "outputPath": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/Basics/obj/",
+        "projectPath": "C:\\projects\\CSharp_project\\Basics\\Basics.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\CSharp_project\\Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/denisbindyukov/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/denisbindyukov/RiderProjects/ConsoleApp1/D_OOP/D_OOP.csproj": {
-                "projectPath": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/D_OOP/D_OOP.csproj"
+              "C:\\projects\\CSharp_project\\D_OOP\\D_OOP.csproj": {
+                "projectPath": "C:\\projects\\CSharp_project\\D_OOP\\D_OOP.csproj"
               }
             }
           }
@@ -57,26 +59,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/denisbindyukov/RiderProjects/ConsoleApp1/D_OOP/D_OOP.csproj": {
+    "C:\\projects\\CSharp_project\\D_OOP\\D_OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/D_OOP/D_OOP.csproj",
+        "projectUniqueName": "C:\\projects\\CSharp_project\\D_OOP\\D_OOP.csproj",
         "projectName": "D_OOP",
-        "projectPath": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/D_OOP/D_OOP.csproj",
-        "packagesPath": "/Users/denisbindyukov/.nuget/packages/",
-        "outputPath": "/Users/denisbindyukov/RiderProjects/ConsoleApp1/D_OOP/obj/",
+        "projectPath": "C:\\projects\\CSharp_project\\D_OOP\\D_OOP.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\CSharp_project\\D_OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/denisbindyukov/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -110,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
