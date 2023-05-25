@@ -65,7 +65,7 @@ namespace F_Deligation
 
 
             //*******************************************************************************************//
-
+            
             var list = new List<int> { 1, 2, 3 };
             var query = list.Where(c => c >= 2);
             list.Remove(3); //удаляем третий элемент из списка
@@ -76,6 +76,18 @@ namespace F_Deligation
             //ДЛЯ ТОГО ЧТОБ ОПЕРАТОРЫ list СРАЗУ ОТРАБАТЫВАЛИ (был материалезован) НА СПИСКЕ, необходимо приминять .ToList() что бы получать готовый
             // cписок в момент объявления, это так же оптимизирует код так как если к листу применять циклы, каждый циклы будет каждый раз запускать
             // цепочку операций установленную на List .Where(u => u.Age > 25).OrderBy(u => u.Name).ThenBy(u => u.Country) и тд...
+
+            //*******************************************************************************************//
+
+            int result = users.RemoveAll(u => u.Age > 25);
+
+            Console.WriteLine($"Users was delete: {result}");
+
+            foreach (var user in users)
+            {
+                Console.WriteLine($"{user.Name}, {user.Age}, {user.Country}");
+            }
+
         }
     }
 
