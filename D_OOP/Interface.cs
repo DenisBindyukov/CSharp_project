@@ -1,11 +1,11 @@
 namespace D_OOP;
 
 // Все интерфэйсы по соглашению между програмистами начинаються с заглавной буквы I
-public interface ICollection
-{
-    void Add(object obj);
-    void Remove(object obj);
-}
+    public interface ICollection
+    {
+        void Add(object obj);
+        void Remove(object obj);
+    }
 
 public interface ICollectionTwo
 {
@@ -13,8 +13,8 @@ public interface ICollectionTwo
     void Update(object obj);
 }
 
-public class BaseList
-{
+    public class BaseList
+    {
 }
 
 public class BaseCollection : ICollection, ICollectionTwo
@@ -49,33 +49,43 @@ public class BaseCollection : ICollection, ICollectionTwo
     }
 }
 
-//show
-//can't inherit from multiple classes
-//but can inherit from one class and multiple interfaces
-//or from just multiple interfaces
-public class MyList : ICollection
-    //IDisposable, ISerializable
-{
-    public void Add(object obj)
+    //show
+    //can't inherit from multiple classes
+    //but can inherit from one class and multiple interfaces
+    //or from just multiple interfaces
+    public class MyList : ICollection
+        //IDisposable, ISerializable
     {
-        //implementation
-    }
+        public void Add(object obj)
+        {
+            //implementation
+        }
 
-    public void Remove(object obj)
-    {
-        //implementation
+        public void Remove(object obj)
+        {
+            //implementation
+        }
     }
-}
 
 
 //Расширение интерфейса ICollection
-public static class ICollectionExt
-{
-    public static void AddRange(this ICollection collection, IEnumerable<object> objects)
+    public static class ICollectionExt
     {
-        foreach (var item in objects)
+        public static void AddRange(this ICollection collection, IEnumerable<object> objects)
         {
+        foreach (var item in objects)
+    {
             collection.Add(item);
-        }
     }
-}
+
+    public class Square : Rect
+    {
+
+    }
+
+    public class AreaCalculator
+    {
+        public static int CalcSquare(Square square) => square.Height * square.Height;
+        public static int CalcSquare(Rect square) => square.Width * square.Height;
+    }
+    
